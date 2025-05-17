@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there! I'm Sayed Mohamed
 
 🎯 **AI Cybersecurity Engineer** | 🔐 Passionate about Secure AI Systems | 💻 ML | DL | NLP | Anomaly Detection  
